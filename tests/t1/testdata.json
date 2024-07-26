@@ -1,0 +1,50 @@
+{
+  "files": [
+    {
+      "data": "../../../../../src/EFApp/Data/Product.cs",
+      "result": true
+    },
+    {
+      "data": "../../../../../src/EFApp/Data/Program.cs",
+      "result": false
+    }
+  ],
+  "objects": [
+    {
+      "data": "EFApp.Data.Customer",
+      "result": {
+        "Item1": true,
+        "Item2": 17
+      }
+    },
+    {
+      "data": "EFApp.Data.ProductCategory",
+      "result": {
+        "Item1": true,
+        "Item2": 8
+      }
+    },
+    {
+      "data": "EFApp.Data.AdventureWorksLTContext",
+      "result": {
+        "Item1": false,
+        "Item2": 0
+      }
+    }
+  ],
+  "constructors": [
+    {
+      "data": "EFApp.Data.AdventureWorksLTContext",
+      "result": {
+        "Item1": true,
+        "Item2": 2
+      }
+    }
+  ],
+  "sensitive": [
+    {
+      "data": "../../../../../src/EFApp/Data/AdventureWorksLTContext.cs",
+      "result": "sav-mik-devsql"
+    }
+  ]
+}

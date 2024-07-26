@@ -1,0 +1,18 @@
+[
+  {
+    "data": "Thrifty Parts and Sales",
+    "result": [
+      "Oxnard Outlet"
+    ]
+  },
+  {
+    "data": "Should not exist",
+    "result": []
+  },
+  {
+    "data": "extended tours",
+    "result": [
+      "7 Garden House Cloisters, 8 Batters"
+    ]
+  }
+]
